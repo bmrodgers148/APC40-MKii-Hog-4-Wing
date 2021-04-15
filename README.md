@@ -1,2 +1,3 @@
 # APC40-MKii-Hog-4-Wing
 Translates midi messages from apc40 to osc for the hog 4 to recognize. Also accepts midi show control bidirectionally to use and update buttons and status.
+Made specifically to use the faders of the apc40 mkii as an 8 fader wing with hog 4 over osc. Also uses the bank of rgb buttons to map to any scene or cuelist and colors can be configured. Buttons configured to flash when activates, either from the apc40 or console. They stop flashing when released. Code is messy, but feel free to read it and ask questions or make modifications and submit a pull request if you want to contribute.
