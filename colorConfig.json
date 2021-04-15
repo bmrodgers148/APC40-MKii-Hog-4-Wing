@@ -1,0 +1,274 @@
+{
+ "map": [
+  {
+   "path": 1,
+   "address": 0,
+   "number": 1,
+   "colorIndex": 3
+  },
+  {
+   "path": 1,
+   "address": 1,
+   "number": 2,
+   "colorIndex": 3
+  },
+  {
+   "path": 1,
+   "address": 2,
+   "number": 3,
+   "colorIndex": 3
+  },
+  {
+   "path": 1,
+   "address": 3,
+   "number": 4,
+   "colorIndex": 3
+  },
+  {
+   "path": 1,
+   "address": 4,
+   "number": 5,
+   "colorIndex": 3
+  },
+  {
+   "path": 1,
+   "address": 5,
+   "number": 6,
+   "colorIndex": 3
+  },
+  {
+   "path": 1,
+   "address": 6,
+   "number": 7,
+   "colorIndex": 3
+  },
+  {
+   "path": 1,
+   "address": 7,
+   "number": 8,
+   "colorIndex": 3
+  },
+  {
+   "path": 1,
+   "address": 8,
+   "number": 73,
+   "colorIndex": 37
+  },
+  {
+   "path": 1,
+   "address": 9,
+   "number": 74,
+   "colorIndex": 45
+  },
+  {
+   "path": 1,
+   "address": 10,
+   "number": 75,
+   "colorIndex": 55
+  },
+  {
+   "path": 1,
+   "address": 11,
+   "number": 76,
+   "colorIndex": 54
+  },
+  {
+   "path": 1,
+   "address": 12,
+   "number": 77,
+   "colorIndex": 58
+  },
+  {
+   "path": 1,
+   "address": 13,
+   "number": 78,
+   "colorIndex": 53
+  },
+  {
+   "path": 1,
+   "address": 14,
+   "number": 79,
+   "colorIndex": 43
+  },
+  {
+   "path": 1,
+   "address": 15,
+   "number": 80,
+   "colorIndex": 21
+  },
+  {
+   "path": 1,
+   "address": 16,
+   "number": 64,
+   "colorIndex": 3
+  },
+  {
+   "path": 1,
+   "address": 17,
+   "number": 65,
+   "colorIndex": 12
+  },
+  {
+   "path": 1,
+   "address": 18,
+   "number": 66,
+   "colorIndex": 14
+  },
+  {
+   "path": 1,
+   "address": 19,
+   "number": 67,
+   "colorIndex": 60
+  },
+  {
+   "path": 1,
+   "address": 20,
+   "number": 68,
+   "colorIndex": 13
+  },
+  {
+   "path": 1,
+   "address": 21,
+   "number": 69,
+   "colorIndex": 19
+  },
+  {
+   "path": 1,
+   "address": 22,
+   "number": 70,
+   "colorIndex": 22
+  },
+  {
+   "path": 1,
+   "address": 23,
+   "number": 71,
+   "colorIndex": 25
+  },
+  {
+   "path": 1,
+   "address": 24,
+   "number": 37,
+   "colorIndex": 37
+  },
+  {
+   "path": 1,
+   "address": 25,
+   "number": 38,
+   "colorIndex": 45
+  },
+  {
+   "path": 1,
+   "address": 26,
+   "number": 39,
+   "colorIndex": 55
+  },
+  {
+   "path": 1,
+   "address": 27,
+   "number": 40,
+   "colorIndex": 54
+  },
+  {
+   "path": 1,
+   "address": 28,
+   "number": 41,
+   "colorIndex": 58
+  },
+  {
+   "path": 1,
+   "address": 29,
+   "number": 42,
+   "colorIndex": 53
+  },
+  {
+   "path": 1,
+   "address": 30,
+   "number": 43,
+   "colorIndex": 43
+  },
+  {
+   "path": 1,
+   "address": 31,
+   "number": 44,
+   "colorIndex": 21
+  },
+  {
+   "path": 1,
+   "address": 32,
+   "number": 28,
+   "colorIndex": 3
+  },
+  {
+   "path": 1,
+   "address": 33,
+   "number": 29,
+   "colorIndex": 12
+  },
+  {
+   "path": 1,
+   "address": 34,
+   "number": 30,
+   "colorIndex": 14
+  },
+  {
+   "path": 1,
+   "address": 35,
+   "number": 31,
+   "colorIndex": 60
+  },
+  {
+   "path": 1,
+   "address": 36,
+   "number": 32,
+   "colorIndex": 13
+  },
+  {
+   "path": 1,
+   "address": 37,
+   "number": 33,
+   "colorIndex": 19
+  },
+  {
+   "path": 1,
+   "address": 38,
+   "number": 34,
+   "colorIndex": 22
+  },
+  {
+   "path": 1,
+   "address": 39,
+   "number": 35,
+   "colorIndex": 25
+  },
+  {
+   "path": 1,
+   "address": 82,
+   "number": 36,
+   "colorIndex": 33
+  },
+  {
+   "path": 1,
+   "address": 83,
+   "number": 45,
+   "colorIndex": 5
+  },
+  {
+   "path": 1,
+   "address": 84,
+   "number": 72,
+   "colorIndex": 33
+  },
+  {
+   "path": 1,
+   "address": 85,
+   "number": 81,
+   "colorIndex": 5
+  },
+  {
+   "path": 1,
+   "address": 86,
+   "number": 9,
+   "colorIndex": 3
+  }
+ ]
+}
